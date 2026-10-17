@@ -80,8 +80,8 @@
   "mac_sayi_ucus_sure": 0.9,
   "mac_sayi_aralik": 0.08,
   "mac_bot_dusunme_en_az": 0.6,
-  "mac_bot_secim_gosterimi": 0.55,
-  "mac_bot_adim_arasi": 0.35,
+  "mac_bot_secim_gosterimi": 0.8,
+  "mac_bot_adim_arasi": 0.5,
 
   "_bolum_demo": "Yalnızca demo aracı; oyun değeri değil.",
   "demo_yavas_cekim_carpani": 0.25
