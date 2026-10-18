@@ -10,6 +10,8 @@
 <style>
 html,body{margin:0;height:100%;background:#0D1015;overflow:hidden;overscroll-behavior:none;-webkit-user-select:none;user-select:none;-webkit-touch-callout:none}
 #unity-canvas{position:fixed;left:0;top:0;width:100vw;height:100vh;height:100dvh;display:block;background:#0D1015;touch-action:none;outline:none}
+:fullscreen{background:#0D1015}
+:-webkit-full-screen{background:#0D1015}
 #yukleme{position:fixed;inset:0;display:flex;flex-direction:column;align-items:center;justify-content:center;gap:14px;color:#8B94A1;font:600 14px -apple-system,system-ui,"Segoe UI",sans-serif}
 #cubuk{width:180px;height:4px;border-radius:2px;background:rgba(255,255,255,.1);overflow:hidden}
 #dolu{height:100%;width:0;background:#F07A2E;transition:width .2s}
@@ -19,14 +21,14 @@ html,body{margin:0;height:100%;background:#0D1015;overflow:hidden;overscroll-beh
 <body>
 <canvas id="unity-canvas" tabindex="-1"></canvas>
 <div id="yukleme"><div>Yükleniyor</div><div id="cubuk"><div id="dolu"></div></div><div id="hata"></div></div>
-<script src="Build/fa927533f0d58dcba17cc7ffd14f9b00.loader.js"></script>
+<script src="Build/198da72baa94d00ef75a707ba25229e9.loader.js"></script>
 <script>
   var yukleme = document.querySelector("#yukleme");
   createUnityInstance(document.querySelector("#unity-canvas"), {
     arguments: [],
-    dataUrl: "Build/f9fac830ccd7e2957c8d64abfc06a0e5.data.unityweb",
-    frameworkUrl: "Build/a48d40141645442bcd03d501335ad48f.framework.js.unityweb",
-    codeUrl: "Build/09359269a2461487d241d1061093f6c9.wasm.unityweb",
+    dataUrl: "Build/3ccce28c2a04b4d018d4021cbc107ef9.data.unityweb",
+    frameworkUrl: "Build/5dd99f56ef269187aa051c679480c14a.framework.js.unityweb",
+    codeUrl: "Build/87d43ebc270a04a02b3ac575f6009ee4.wasm.unityweb",
     streamingAssetsUrl: "StreamingAssets",
     companyName: "RunterraLike",
     productName: "Kart Arena",

@@ -83,6 +83,22 @@
   "mac_bot_secim_gosterimi": 0.8,
   "mac_bot_adim_arasi": 0.5,
 
+  "_pilot_durum": "TASLAK: 2.5D pilotu, asistan önerisi; kullanıcı görsel kabulü bekleniyor.",
+  "pilot_alev_ucus": 0.48,
+  "pilot_alev_yay": 1.1,
+  "pilot_alev_iz_omur": 0.22,
+  "pilot_alev_boyut": 0.18,
+  "pilot_alev_iz_adet": 70,
+  "pilot_alev_patlama": 0.32,
+  "pilot_alev_patlama_hiz": 1.8,
+  "pilot_alev_patlama_adet": 22,
+  "pilot_duvar_yukselis": 0.38,
+  "pilot_duvar_kirilma": 0.55,
+  "pilot_cam_parca_boyut": 0.12,
+  "pilot_cam_parca_hiz": 2.3,
+  "pilot_cam_yercekimi": 1,
+  "pilot_cam_parca_adet": 32,
+
   "_bolum_demo": "Yalnızca demo aracı; oyun değeri değil.",
   "demo_yavas_cekim_carpani": 0.25
 }
