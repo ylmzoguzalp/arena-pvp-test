@@ -43,7 +43,7 @@
   "kart_hareket_inis": 0.24,
   "kart_hareket_inis_ezilme": 0.16,
   "kart_takas_yay_farki": 0.45,
-  "kart_uzak_olcek": 1.12,
+  "kart_uzak_olcek": 1.135,
 
   "_bolum_ses": "Ses efektleri (KartArena/Assets/KartArena/Resources/Sesler/, SesYoneticisi.cs). 3D tahtada bırakış sesi kartın indiği an (kart_hareket_hazirlik + kart_hareket_ucus) çalar; 2D tahtada kart OutCubic ile kaydığı için bu kadar sonra çalar. Vuruş ve Savun eylem anında çalar.",
   "ses_birakis_2d": 0.16,
@@ -88,6 +88,8 @@
   "mac_bot_adim_arasi": 0.5,
   "_mac_telegraf_arasi": "2026-10-18 ÖNERİ: tur başında sıra sıra çözülen iki telegraf arasındaki bekleme (sn).",
   "mac_telegraf_arasi": 0.45,
+  "_mac_olumcul_yanip_periyot": "2026-10-19 ÖNERİ: ölecek kartın telegraf çerçevesinin bir yanıp sönme süresi (sn); kullanıcı: 'kırmızı çerçeve hızlı hızlı yanıp sönebilir'.",
+  "mac_olumcul_yanip_periyot": 0.4,
 
   "_pilot_durum": "TASLAK: 2.5D pilotu, asistan önerisi; kullanıcı görsel kabulü bekleniyor.",
   "pilot_duvar_yukselis": 0.38,
